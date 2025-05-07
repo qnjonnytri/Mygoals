@@ -1,4 +1,4 @@
-# Mygoals
+# Mygoal
 
 Hi, I'm Phan Minh Tri, a passionate learner in the field of Networking and Cybersecurity. Currently, I am focused on enhancing my skills and accelerating my learning to stay competitive with others in the industry.
 
