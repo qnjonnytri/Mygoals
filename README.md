@@ -18,9 +18,15 @@ I am aiming to develop into a network engineer – cybersecurity specialist, wit
 
 # HARD SKILL
 • Cisco Routing & Switching (VLAN, Trunk, STP, HSRP, OSPF, EIGRP)
+
 • **Network Security:** ACL, SSH, AAA (RADIUS), Zone-Based Firewall (ZPF)
+
 • **Network Services:** DHCP, NAT, FreeRADIUS
+
 • **Network Monitoring & Analysis:** Wireshark, Zabbix
+
 • **Network Simulation & Virtualization:** Packet Tracer, EVE-NG
+
 • **Linux Server (Ubuntu):** basic services, logs, troubleshooting
+
 • **Python for Networking:** basic automation & troubleshooting scripts
