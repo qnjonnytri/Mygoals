@@ -15,3 +15,12 @@ Let's connect!
 Intern in the networking field with a solid foundation in LAN/WAN network management, dynamic routing (OSPF, EIGRP), access security (ACL, SSH, AAA), and network virtualization with Packet Tracer and EVE-NG. I aim to apply the knowledge I've gained in a real-world environment, support users, and help improve network systems.
 
 I am aiming to develop into a network engineer – cybersecurity specialist, with the ability to design and secure enterprise network infrastructure, ensuring stable operations and high security.
+
+# HARD SKILL
+• Cisco Routing & Switching (VLAN, Trunk, STP, HSRP, OSPF, EIGRP)
+• **Network Security:** ACL, SSH, AAA (RADIUS), Zone-Based Firewall (ZPF)
+• **Network Services:** DHCP, NAT, FreeRADIUS
+• **Network Monitoring & Analysis:** Wireshark, Zabbix
+• **Network Simulation & Virtualization:** Packet Tracer, EVE-NG
+• **Linux Server (Ubuntu):** basic services, logs, troubleshooting
+• **Python for Networking:** basic automation & troubleshooting scripts
