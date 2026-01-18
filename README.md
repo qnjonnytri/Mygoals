@@ -16,7 +16,7 @@ Intern in the networking field with a solid foundation in LAN/WAN network manage
 
 I am aiming to develop into a network engineer – cybersecurity specialist, with the ability to design and secure enterprise network infrastructure, ensuring stable operations and high security.
 
-# HARD SKILL
+# Hard Skill
 • Cisco Routing & Switching (VLAN, Trunk, STP, HSRP, OSPF, EIGRP)
 
 • **Network Security:** ACL, SSH, AAA (RADIUS), Zone-Based Firewall (ZPF)
